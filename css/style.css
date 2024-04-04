@@ -23,16 +23,18 @@ body{
     border-radius: 20px;
 }
 
+.number-and-advice{
+    height: 70%;
+}
+
 .advice-number{
     color: var(--advice-dice-color);
-    height:33%;
     font-size: 10px;
     letter-spacing: 5px;
 }
 
 .advice{
     color: var(--text-color);
-    height: 33%;
     text-align: center;
     padding: 20px;
     border-bottom: solid;
