@@ -26,7 +26,7 @@ body{
     color: var(--advice-dice-color);
     padding: 20px;
     font-size: 12px;
-    letter-spacing: 2px;
+    letter-spacing: 5px;
 }
 
 .advice{
@@ -35,11 +35,14 @@ body{
     padding: 20px;
     text-align: center;
     border-bottom: solid;
+    border-width: 1px;
+    border-color: rgb(87, 87, 87);
+   
 }
 
 .bottom-card{
     position: absolute;
-    width: 370px;
+    width: 360px;
     height: 140px;
 }
 
