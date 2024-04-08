@@ -1,6 +1,3 @@
-
-
-
 body{
     background-color: var(--background-color);
     font-family: "Manrope", sans-serif;
@@ -22,16 +19,13 @@ body{
 }
 
 .advice-card{
+    display: block;
     background-color: var(--advice-card-color);
     height: 240px;
-    width: 360px;
+    width: 380px;
     padding: 20px;
     border: 20px;
     border-radius: 20px;
-}
-
-.number-and-advice{
-    height: 70%;
 }
 
 .advice-number{
@@ -50,20 +44,25 @@ body{
 }
 
 .bottom-card{
-    position: absolute;
-    width: 300px;
-    height: 60px;
+    height: 30px;
 }
 
-.card-dice{
+.dice-position{
+    position: relative;
+    margin: 0;
+    padding: 0;
+}
+  
+.dice-button{
     background-color: var(--advice-dice-color);
     width: 50px;
     height: 50px;
     border-radius: 50%;
     padding: 20px;
+    
 }
 
 .fa-dice-five{
     color: var(--background-color);
-    font-size: 24px;
+    font-size: 22px;
 }
