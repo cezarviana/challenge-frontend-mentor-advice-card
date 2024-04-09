@@ -35,14 +35,7 @@ body{
     text-align: center;
     padding: 20px;
     font-size: 20px;
-}
-
-.bottom-card{
-    height: 60px;
-}
-
-.dice-position{
-    position: static;
+    transform: translateY(50%);
 }
   
 .dice-button{
@@ -50,11 +43,11 @@ body{
     width: 50px;
     height: 50px;
     border-radius: 50%;
-    padding: 20px;
-    
+    padding: 20px; 
 }
 
-.fa-dice-five{
-    color: var(--background-color);
-    font-size: 22px;
+.dice-button:hover{
+        color: #53FFAB;
+        cursor: pointer;
+        box-shadow: 0 5px 15px var(--advice-dice-color);
 }
