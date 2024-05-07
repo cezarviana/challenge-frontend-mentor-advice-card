@@ -28,7 +28,7 @@ Criar um layout próximo desse desafio do frontend mentor: [Frontend Mentor | Ad
 
 ## Imagens do Design criado
 <div align="center">
-<img src="design/1-desktop.png"  style="height: 300px; text-align: center;">
+<img src="design/1-desktop.png"  style="height: 300px; text-align: center;"> <br>
 <img src="design/1-mobile.png"  style="height: 300px; text-align: center;">
 </div>
 
