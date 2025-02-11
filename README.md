@@ -4,6 +4,8 @@ Um projeto para testar o conhecimento de HTML, CSS, JavaScript.
 
 Contudo, ainda não comecei a estudar o JS. Portanto, o projeto está parcialmente finalizado com o HTML e CSS. O JS será feito em outra etapa.
 
+[Link do projeto](https://cezarviana.github.io/challenge-frontend-mentor-advice-card/)
+
 ## Descrição da tarefa
 Criar um layout próximo desse desafio do frontend mentor: [Frontend Mentor | Advice generator app coding challenge](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db). Onde o principal desafio é construir um aplicativo que gere conselhos aleatórios. Nessa primeira etapa do exercício, será realizado apenas a construção do HTML e CSS.
 
