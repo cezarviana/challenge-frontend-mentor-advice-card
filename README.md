@@ -32,9 +32,9 @@ Criar um layout próximo desse desafio do frontend mentor: [Frontend Mentor | Ad
 
 ## 💡 Decisões do projeto
 1. **Fontes**
-- [Manrope](https://fonts.google.com/specimen/Manrope).
-- [Kumbh Sans](https://fonts.google.com/specimen/Kumbh+Sans).
-- [Roboto](https://fonts.google.com/specimen/Roboto).
+- [Manrope](https://fonts.google.com/specimen/Manrope)
+- [Kumbh Sans](https://fonts.google.com/specimen/Kumbh+Sans)
+- [Roboto](https://fonts.google.com/specimen/Roboto)
 
 2. **Cores**
 ```
