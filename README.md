@@ -74,8 +74,4 @@ Siga os passos abaixo para executar o projeto na sua máquina:
    ```
 3. npm install
 4. npm run dev
-<<<<<<< HEAD
 5. **Abrir o arquivo index.html:** Abra o arquivo `index.html` em um navegador web.
-=======
-5. **Abrir o arquivo index.html:** Abra o arquivo `index.html` em um navegador web.
->>>>>>> 625f8e4a9995b1fcfca4e4de9e9c0fcff82b2018
