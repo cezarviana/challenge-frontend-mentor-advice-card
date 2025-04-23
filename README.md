@@ -1,26 +1,21 @@
-# Challenge - Frontend Mentor = Advice Card (App de Conselhos)
+# ⚡ Challenge - Frontend Mentor = Advice Card (App de Conselhos)
 
-Um projeto para testar o conhecimento de HTML, CSS, JavaScript.
+## 📝 Descrição do Projeto
+Criar um layout próximo desse desafio do frontend mentor: [Frontend Mentor | Advice generator app coding challenge](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db). Onde o principal desafio é construir um aplicativo que selecione um conselho aleatórios de um banco de conselhos. 
 
-Contudo, ainda não comecei a estudar o JS. Portanto, o projeto está parcialmente finalizado com o HTML e CSS. O JS será feito em outra etapa.
 
-[Link do projeto](https://cezarviana.github.io/challenge-frontend-mentor-advice-card/)
+## 🔎 Funcionalidades
+- Responsivo para todos os dispositivos
+- Construção do HTML e CSS
 
-## Descrição da tarefa
-Criar um layout próximo desse desafio do frontend mentor: [Frontend Mentor | Advice generator app coding challenge](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db). Onde o principal desafio é construir um aplicativo que gere conselhos aleatórios. Nessa primeira etapa do exercício, será realizado apenas a construção do HTML e CSS.
 
-### Font family para ser usada no projeto:
+## 🛠️ Ferramentas utilizadas
+- **HTML:** Estruturação do projeto
+- **CSS:** Estilização do projeto, responsivo
+- **Git:** Ferramenta de versionamento
 
-- Family: [Manrope - Google Fonts](https://fonts.google.com/specimen/Manrope?selection.family=Roboto&preview.text=%E1%9E%81%E1%9F%92%E1%9E%89%E1%9E%BB%E1%9F%86%E1%9E%94%E1%9E%B6%E1%9E%93%E1%9E%98%E1%9E%BE%E1%9E%9B%E1%9E%96%E1%9F%92%E1%9E%99%E1%9E%BB%E1%9F%87%20%E1%9E%8A%E1%9F%82%E1%9E%9B%E1%9E%98%E1%9E%B6%E1%9E%93%E1%9E%97%E1%9E%B6%E1%9E%96%E1%9E%9F%E1%9F%92%E1%9E%9A%E1%9E%9F%E1%9F%8B%E1%9E%9F%E1%9F%92%E1%9E%A2%E1%9E%B6%E1%9E%8F%E1%9E%8E%E1%9E%B6%E1%9E%9F%E1%9F%8B%20%E1%9E%94%E1%9F%89%E1%9E%BB%E1%9E%93%E1%9F%92%E1%9E%8F%E1%9F%82%E1%9E%82%E1%9E%BD%E1%9E%9A%E1%9E%B2%E1%9F%92%E1%9E%99%E1%9E%81%E1%9F%92%E1%9E%9B%E1%9E%B6%E1%9E%85&preview.text_type=custom)
-- Weight: 800
 
-### Cores
-***
---text-color: hsl(193, 38%, 86%); <br>
---advice-dice-color: hsl(150, 100%, 66%); <br>
---advice-card-color: hsl(217, 19%, 24%); <br>
---background-color: hsl(218, 23%, 16%);
-***
+## 🎨 Imagens do projeto
 
 ### Imagens do Design a ser seguido
 <div align="center">
@@ -35,16 +30,48 @@ Criar um layout próximo desse desafio do frontend mentor: [Frontend Mentor | Ad
 </div>
 
 
-## Tecnologias utilizadas
-- HTML
-- CSS
-- JavaScript
-- Git Bash
+## 💡 Decisões do projeto
+1. **Fontes**
+- [Manrope](https://fonts.google.com/specimen/Manrope)
+- [Kumbh Sans](https://fonts.google.com/specimen/Kumbh+Sans)
+- [Roboto](https://fonts.google.com/specimen/Roboto)
 
-### Como utilizar
+2. **Cores**
+```
+--text-color: hsl(193, 38%, 86%);
+--advice-dice-color: hsl(150, 100%, 66%);
+--advice-card-color: hsl(217, 19%, 24%);
+--background-color: hsl(218, 23%, 16%);
+```
 
-1 - Clone o projeto
-***
-git clone <https://github.com/cezarviana/challenge-frontend-mentor-advice-card.git>
-***
 
+## 💦 Dificuldades do projeto
+- Seguir os padrões sem as informações de fontes, cores e tamanhos.
+
+
+## 🔓 O que eu aprendi
+- Com auxílio de IA é possível encontrar as cores e fontes similares para a execução do projeto.
+
+
+## 💭 Possíveis atualizações futuras
+- Finalizar o README ✅
+- Criar o banco de conselhos.
+- Criar o mecanismo de selecionar um conselho aleatório.
+- Dispor o conselho selecionado em tela.
+
+## 🚀 Como rodar o projeto
+Siga os passos abaixo para executar o projeto na sua máquina:
+
+### Pré requisitos
+
+- <strong><i>Git</i></strong>: Para clonar o repositório.
+
+
+1. Abra o git, e execute os seguintes comandos
+2. **Clonar o repositório:**
+   ```bash
+   git clone https://github.com/cezarviana/challenge-frontend-mentor-advice-card.git
+   ```
+3. npm install
+4. npm run dev
+5. **Abrir o arquivo index.html:** Abra o arquivo `index.html` em um navegador web.
